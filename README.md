@@ -20,7 +20,7 @@ git config commit.template .gitmessage.txt
 
 ### Configuration
 
-1. commit template이 적용되어 있습니다. 작업이 끝난 후 커밋 메세지 탬플릿을 수정하시어 사용하시면 됩니다.
+1. commit message가 적용되어 있습니다. 작업이 끝난 후 커밋 메세지 탬플릿을 수정하시어 사용하시면 됩니다. 참조[ReadMe](/.gitmessage.txt)
 2. `npm install`사용되는 라이브러리가 설치 됩니다. 라이브러리 목록은 `package.json`을 참고하시기 바랍니다.
 3. `npm run dev`로 로컬 서버를 작동 할 수 있습니다. nodemon 적용되어 있습니다.
 
@@ -32,10 +32,10 @@ project-root/
 │   ├── routes/             
 │   │   ├── index.ts
 │   │   ├── ...
-│   │   └── ...
 │   ├── middlewares/        
 │   │   └── ...
-│   ├── utils/              
+│   ├── utils/      
+│   │   └── ...
 │   ├── app.ts              
 │   └── server.ts           
 ├── package.json
@@ -47,14 +47,13 @@ project-root/
 
 ### Authors
 
-Rooney Donghoon Lee - Initial work - kroonstazy
+@kroonstazy
 
 ### License
 
-This project is UNLICENSED and private, Internal use only.
-
+This project is UNLICENSED.
 
 ### Contact
 
-dev@clrobur.com
-dhlee@clrobur.com
+kroonstazy@gmail.com
+
