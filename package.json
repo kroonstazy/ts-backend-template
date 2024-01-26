@@ -1,5 +1,5 @@
 {
-  "name": "platform-api-gateway",
+  "name": "project",
   "version": "1.0.0",
   "description": "",
   "main": "app.ts",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/langzzang/platform-api-gateway.git"
+    "url": "git+https://github.com/kroonstazy/ts-backend-template.git"
   },
-  "author": "CLROBUR",
+  "author": "kroonstazy",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/langzzang/platform-api-gateway/issues"
+    "url": "https://github.com/kroonstazy/ts-backend-template/issues"
   },
-  "homepage": "https://github.com/langzzang/platform-api-gateway#readme",
+  "homepage": "https://github.com/kroonstazy/ts-backend-templatey#readme",
   "devDependencies": {
     "@types/cors": "^2.8.17",
     "@types/jest": "^29.5.11",
